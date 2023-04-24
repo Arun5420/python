@@ -1,4 +1,5 @@
-﻿Temp. (K),Density (mol/L ),Density (kg/m3),Isochore Derivative (MPa/K),Isotherm Derivative (MPa.m3/Kg),Cp (J/(mol.K))
+Temp.,Density ,Density ,Isochore Derivative ,Isotherm Derivative ,Cp 
+K,mol/L ,kg/m3,MPa/K,MPa.m3/Kg,J/(mol.K)
 200,11.59,673.92,1.34452,1.41021,118.87
 210,11.43,664.35,1.25705,1.3068,120.28
 220,11.26,654.67,1.17502,1.20796,121.98
